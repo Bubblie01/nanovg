@@ -1,4 +1,4 @@
-*This project is not actively maintained.*
+This is a fork of NanoVG, all elements that I have not added were not created by me and all rights for those go to the created of NanoVG. 
 
 NanoVG
 ==========
